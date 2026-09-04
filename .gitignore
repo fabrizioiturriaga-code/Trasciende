@@ -1,0 +1,22 @@
+# Skills / design references descargadas (repos de terceros, no forman parte del proyecto)
+/awesome-design-md/
+/design-motion-principles/
+/impeccable/
+
+# Dependencias y build
+node_modules/
+dist/
+build/
+.next/
+.output/
+.vercel/
+
+# Entorno
+.env
+.env.local
+.env.*.local
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+*.log
